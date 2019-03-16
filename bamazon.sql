@@ -16,3 +16,5 @@ INSERT INTO products (product_name, department_name, price, stock_quantity) valu
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('apple', 'food', 1, 29);
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('phone', 'electronics', 800, 3);
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('paperclip', 'office', 20, 500);
+
+SELECT * FROM products;
